@@ -145,7 +145,8 @@ tbody tr:nth-child(even) {
 
 ![Screenshot 2025-07-08 120910](https://github.com/user-attachments/assets/ecc3346b-6bcb-4ba5-98e7-4b0abcad9d23)
 
-##Live Web Page:
+## Live Web Page:
+https://roshanr-git.github.io/Product_Table/
 
 ## Result:
 A structured HTML table that displays product-related information, including product names, prices, and descriptions, useful for catalogs, listings, or e-commerce prototypes is created successfully.
